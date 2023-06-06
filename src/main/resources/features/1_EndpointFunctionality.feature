@@ -1,4 +1,6 @@
 Feature: User Registration
+
+  @Register
   Scenario: Successful user registration
     Given a user registration request with valid data
     When the request is made to the /register endpoint
