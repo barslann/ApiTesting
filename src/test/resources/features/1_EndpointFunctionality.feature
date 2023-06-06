@@ -1,7 +1,9 @@
 Feature: User Registration
+
+  @Register
   Scenario: Successful user registration
     Given a user registration request with valid data
-    When the request is made to the /register endpoint
+    When the request is made to the register endpoint
     Then the response status code should be 201
     And the response body should contain the registration details
 
