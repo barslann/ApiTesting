@@ -1,0 +1,11 @@
+model/LoginWrongResponseModel.class
+model/LoginRequestModel.class
+model/AuthResponse.class
+model/product/ProductResponse.class
+model/LoginResponseModel.class
+model/UserCreateRequest.class
+RunnerTest.class
+model/product/ProductCreateRequest.class
+StepDefs/EnpointFunctionalityStepDefs.class
+StepDefs/ProductStepDefinitions.class
+model/product/Category.class

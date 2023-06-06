@@ -1,0 +1,14 @@
+/Users/coderman/Desktop/Apitest/src/main/java/model/LoginResponseModel.java
+/Users/coderman/Desktop/Apitest/src/main/java/model/product/Category.java
+/Users/coderman/Desktop/Apitest/src/main/java/StepDefs/AuthenticationStepDefinitions.java
+/Users/coderman/Desktop/Apitest/src/main/java/model/UserCreateRequest.java
+/Users/coderman/Desktop/Apitest/src/main/java/StepDefs/AuthStepDefs.java
+/Users/coderman/Desktop/Apitest/src/main/java/RunnerTest.java
+/Users/coderman/Desktop/Apitest/src/main/java/model/LoginWrongResponseModel.java
+/Users/coderman/Desktop/Apitest/src/main/java/model/AuthResponse.java
+/Users/coderman/Desktop/Apitest/src/main/java/StepDefs/EnpointFunctionalityStepDefs.java
+/Users/coderman/Desktop/Apitest/src/main/java/model/product/ProductCreateRequest.java
+/Users/coderman/Desktop/Apitest/src/main/java/StepDefs/ProductStepDefinitions.java
+/Users/coderman/Desktop/Apitest/src/main/java/StepDefs/RequestResponseValidation.java
+/Users/coderman/Desktop/Apitest/src/main/java/model/LoginRequestModel.java
+/Users/coderman/Desktop/Apitest/src/main/java/model/product/ProductResponse.java

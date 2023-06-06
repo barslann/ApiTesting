@@ -1,0 +1,11 @@
+RunnerTest.class
+model/product/ProductCreateRequest.class
+model/LoginWrongResponseModel.class
+StepDefs/EnpointFunctionalityStepDefs.class
+model/LoginRequestModel.class
+model/AuthResponse.class
+StepDefs/ProductStepDefinitions.class
+model/product/ProductResponse.class
+model/product/Category.class
+model/LoginResponseModel.class
+model/UserCreateRequest.class
