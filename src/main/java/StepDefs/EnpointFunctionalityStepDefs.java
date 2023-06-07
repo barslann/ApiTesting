@@ -70,7 +70,7 @@ public class EnpointFunctionalityStepDefs {
     @When("the request is made to the register endpoint")
     public void theRequestIsMadeToTheRegisterEndpoint() {
         // Make the POST request to the /register endpoint
-        response = request.log().all().post("http://localhost:8080/auth/register");
+        response = request.log().all().post("http://18.220.255.46:8080/auth/register");
 
         response.prettyPrint();
     }
